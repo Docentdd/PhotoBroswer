@@ -1,7 +1,7 @@
 # Photo Browser Application
 
 ## Overview
-The **Photo Browser** application is a Java-based desktop application that allows users to manage their photo collections efficiently. It provides features for organizing photos, assigning metadata, and performing advanced searches.
+A Java-based desktop application for managing and organizing photo collections with an intuitive Swing GUI. Key features include customizable photo metadata (titles, tags, dates, descriptions), collection grouping, and advanced search capabilities using filters such as tags, keywords, and date ranges. The application utilizes JFileChooser for seamless file handling and integrates custom data processing classes to maintain clean architecture. Efficient data storage and retrieval are achieved through Set and Map structures. Multithreading is implemented to optimize search performance across large datasets.
 
 ## Features
 - **Photo Management**: 
